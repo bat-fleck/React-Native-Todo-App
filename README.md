@@ -12,8 +12,7 @@ https://expo.io/artifacts/6f90e172-58bc-487e-9e08-301326cca138
 ```
 Screenshot
 ```
-<img src="./scr.png"/>
-
+<img src="./scr.png" width=500/>
 
 
 

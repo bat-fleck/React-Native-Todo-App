@@ -9,9 +9,8 @@ A intuitive todo app built using expo.
 Click here to download the .apk file:
 https://expo.io/artifacts/6f90e172-58bc-487e-9e08-301326cca138
 
-```
-Screenshot
-```
+>Screenshot:
+
 <img src="./scr.png" width=500/>
 
 
